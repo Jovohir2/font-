@@ -1,0 +1,27 @@
+header{background-color: black ; display: flex; align-items: center; justify-content: space-around; gap: 750px;}
+a{color: white; text-decoration: none;}
+nav{display: flex;
+gap: 40px ;}
+
+main h1{
+    text-align: center;
+    font-size: 88px;
+    width: 500px;
+    margin: auto;
+}
+
+.card{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+footer{background-color: black; display: flex; align-items: center;
+justify-content: space-around; gap: 750px;}
+
+
+
