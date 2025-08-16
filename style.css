@@ -1,0 +1,27 @@
+span{
+    color: yellow;
+}
+.text{color: white; text-align: center;}
+
+body{background-color: #CD5D5D;}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+img{
+    width: 300px ;height: 140px;
+}
+div{
+    width: 300px;
+    height: 300px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 50px;
+}
